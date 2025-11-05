@@ -27,7 +27,7 @@ For me, coding isn’t just syntax — it’s a way to shape ideas into reality.
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaispritam&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=jaispritam&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaispritam&theme=react&hide_border=false&layout=compact)
 
