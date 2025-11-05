@@ -34,7 +34,7 @@ For me, coding isn’t just syntax — it’s a way to shape ideas into reality.
 ---
 
 ### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamjaiswal888/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaispritam)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritamjais006@gmail.com)
 
