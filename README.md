@@ -11,6 +11,10 @@ My goal is clear — **crack GSoC 2026** and contribute meaningfully to open sou
 I’m the kind of tech guy who loves to think **outside the box**, experiment, and build things that actually make sense.  
 For me, coding isn’t just syntax — it’s a way to shape ideas into reality.
 
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
+
 ---
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
