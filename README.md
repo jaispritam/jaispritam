@@ -39,6 +39,12 @@ For me, coding isn’t just syntax — it’s a way to shape ideas into reality.
 
 ---
 
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -58,6 +64,7 @@ For me, coding isn’t just syntax — it’s a way to shape ideas into reality.
 
 
 ---
+
 
 [![](https://visitcount.itsvg.in/api?id=jaispritam&icon=0&color=0)](https://visitcount.itsvg.in)
 
