@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Pritam Jaiswal 👋👩🏾‍💻</h1>
-<h3 align="center">💻 Developer | Full Stack Learner | Tech Explorer</h3>
+<h3 align="center">💻 Developer | Full Stack Developer | Tech Explorer</h3>
 
 ---
 
