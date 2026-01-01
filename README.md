@@ -12,7 +12,7 @@
 
 
 <!-- Hero Banner -->
-<img src="" width="100%">
+<img src="Gemini_Generated_Image_5d32ud5d32ud5d32.png" width="100%">
 
 <!-- Banner -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
