@@ -1,9 +1,13 @@
-name: Generate GitHub Contribution Graph Artwork
+name: GitArt
 
 on:
   push:
-    branches:
-      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,13 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate contribution graph SVG
-        uses: jasineri/gitartwork@main  # Public action
+      - name: Generate GitArt
+        uses: jasineri/gitartwork@v1
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           user_name: jaispritam
-          text: Pritam Jaiswal
+          text: PRITAM
 
-      - name: Commit SVG
+      - name: Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update gitartwork.svg"
+          commit_message: "Update GitArt"
