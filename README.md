@@ -10,6 +10,10 @@
   </a>
 </p>
 
+
+<!-- Hero Banner -->
+<img src="" width="100%">
+
 <!-- Banner -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
