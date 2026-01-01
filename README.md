@@ -86,7 +86,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaispritam&theme=github_dark"/>
 </p>
+
 ![Gitartwork](https://raw.githubusercontent.com/jaispritam/jaispritam/main/gitartwork.svg)
+
 
 ---
 
