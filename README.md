@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 </p>
-
 <!-- Greeting Typing Animation -->
 <p align="center">
   <a href="#">
