@@ -22,9 +22,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Tech%20Explorer;Open%20Source%20Aspirant;Problem%20Solver&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
-
 ---
-
 ## About Me
 - Focused on **Full Stack Development**
 - Passionate about **building meaningful tech**
