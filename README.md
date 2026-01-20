@@ -129,8 +129,6 @@
 </p>
 
 ![Gitartwork](https://raw.githubusercontent.com/jaispritam/jaispritam/main/gitartwork.svg)
-
-
 ---
 
 ## Snake Animation
