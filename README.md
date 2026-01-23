@@ -26,9 +26,7 @@
 - Passionate about **building meaningful tech**
 - Future goal: **Crack GSoC 2026**
 - Reach me at: **pritamjais006@gmail.com**
-
 ---
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pritamjaiswal888/">
