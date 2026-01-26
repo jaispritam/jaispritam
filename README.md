@@ -45,7 +45,6 @@
 ---
 <!-- Language and Tools Section Here -->
 <h1 align="left">🛠 Language and Tools</h1>
-
 <!-- Vector Tool Gif -->
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
