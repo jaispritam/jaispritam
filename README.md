@@ -13,7 +13,6 @@
 
 <!-- Banner -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
-
 <!-- Roles Typing Animation -->
 <p align="center">
   <a href="https://github.com/jaispritam">
