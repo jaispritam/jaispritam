@@ -108,7 +108,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 ## GitHub Stats
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaispritam&theme=react&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaispritam&theme=react&hide_border=false&layout=compact" height="150"/>
