@@ -118,7 +118,6 @@
 -->
 ![Gitartwork](https://raw.githubusercontent.com/jaispritam/jaispritam/main/gitartwork.svg)
 ---
-
 ## Snake Animation
 
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
