@@ -10,7 +10,6 @@
 </p>
 <!-- Hero Banner -->
 <img src="https://github.com/jaispritam/jaispritam/blob/main/Gemini_Generated_Image_5d32ud5d32ud5d32.png" width="100%">
-
 <!-- Banner -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 <!-- Roles Typing Animation -->
