@@ -8,7 +8,7 @@ Full Stack Developer | Focused on AI-powered solutions
 ## 🚀 About Me
 - 💻 I build **full stack web applications**
 - 🤖 Interested in **AI-powered products and automation**
-- 🎯 Goal: **Crack GSoC 2026**
+- 🎯 Goal: **Crack GSoC 2027**
 - 📫 Email: **pritamjais006@gmail.com**
 
 ---
